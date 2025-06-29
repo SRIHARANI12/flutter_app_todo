@@ -23,14 +23,6 @@ A cross-platform **Todo Task Management** mobile application built using **Flutt
 
 ---
 
-## 📱 Screenshots
-
-> Add screenshots here (optional):
-> 
-> ![Screenshot](assets/screenshots/home.png)
-
----
-
 ## 🧠 Tech Stack
 
 | Category       | Technology       |
