@@ -45,3 +45,14 @@ A cross-platform **Todo Task Management** mobile application built using **Flutt
 
 ## 🏗️ Project Structure
 
+| Folder/File      | Description                            |
+| ---------------- | -------------------------------------- |
+| `lib/`           | Main application code                  |
+| ├── `models/`    | Data models (e.g., Task model)         |
+| ├── `providers/` | State management using Provider        |
+| ├── `screens/`   | App screens (e.g., Home screen)        |
+| └── `main.dart`  | Entry point of the Flutter app         |
+| `pubspec.yaml`   | Project configuration and dependencies |
+
+
+
