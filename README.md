@@ -1,20 +1,50 @@
-<<<<<<< HEAD
-# flutter_app_todo
+# ✅ Todo Task Manager App
 
-A new Flutter project.
+A cross-platform **Todo Task Management** mobile application built using **Flutter**, enabling users to manage their daily tasks efficiently with local data storage, search functionality, and a polished UI.
 
-## Getting Started
+![Flutter](https://img.shields.io/badge/Built%20With-Flutter-blue?logo=flutter)
+![State Management](https://img.shields.io/badge/State%20Management-Provider-brightgreen)
+![Storage](https://img.shields.io/badge/Storage-Hive-yellow)
+![Status](https://img.shields.io/badge/Status-Completed-success)
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- ✍️ Create new tasks with title and description
+- 📋 View all tasks in a clean UI
+- 🔍 Search tasks by title or description
+- ✅ Mark tasks as completed/incomplete
+- ♻️ Refresh task list
+- ✏️ Update existing tasks
+- 🗑️ Delete tasks with a single tap
+- 📦 Local data storage using **Hive**
+- 📱 Responsive and smooth UI with **Material Design**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# flutter_todo_app
->>>>>>> aac11fc8f9ec80c8b52698ed0b1a01b622bb4a33
+---
+
+## 🧠 Tech Stack
+
+| Category       | Technology       |
+|----------------|------------------|
+| Language       | Dart             |
+| Framework      | Flutter          |
+| State Mgmt     | Provider         |
+| Local Storage  | Hive             |
+| UI Components  | Material Design  |
+
+---
+
+## 🏗️ Project Structure
+
+| Folder/File      | Description                            |
+| ---------------- | -------------------------------------- |
+| `lib/`           | Main application code                  |
+| ├── `models/`    | Data models (e.g., Task model)         |
+| ├── `providers/` | State management using Provider        |
+| ├── `screens/`   | App screens (e.g., Home screen)        |
+| └── `main.dart`  | Entry point of the Flutter app         |
+| `pubspec.yaml`   | Project configuration and dependencies |
+
+
+
