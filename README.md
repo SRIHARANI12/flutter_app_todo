@@ -35,6 +35,11 @@ A cross-platform **Todo Task Management** mobile application built using **Flutt
 
 ---
 
+## 📸 Screenshot
+
+![Home Screen](assets/screenshots/home.jpg)
+
+
 ## 🏗️ Project Structure
 
 | Folder/File      | Description                            |
